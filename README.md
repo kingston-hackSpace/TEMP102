@@ -1,0 +1,6 @@
+# Temperature Sensor -  TEMP102
+
+HARDWARE
+
+- ARDUINO UNO
+- TEMP102
