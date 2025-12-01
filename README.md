@@ -20,4 +20,4 @@ TMP102 Sparkfun guide [here](https://learn.sparkfun.com/tutorials/tmp102-digital
 
 ### CODE AND INSTRUCTIONS
 
-- [TUTORIAL] (https://www.hackster.io/yanvaf/arduino-and-tmp102-temperature-sensor-11bd94)
+- [TUTORIAL](https://www.hackster.io/yanvaf/arduino-and-tmp102-temperature-sensor-11bd94)
