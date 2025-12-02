@@ -13,7 +13,7 @@ The sensor offers high precision across a wide temperature range, making it idea
 
 The [DHT11/DHT22](https://github.com/kingston-hackSpace/DHT11_Humidity_and_Temperature/tree/main) are temperature-and-humidity sensors, ideal for ***environmental temperature*** sensing, when ***humidity*** is also required. They are cheaper than the TEMP102, but offer lower accuracy and a smaller temperature range.
 
-The [Si7021] (pending) is a temperature-and-humidity sensor similar to the DHT11/DHT22, but more precise, however, more expensive. 
+The [Si7021] ([pending](https://github.com/kingston-hackSpace/Si7021)) is a temperature-and-humidity sensor similar to the DHT11/DHT22, but more precise, however, more expensive. 
 
 ----
 # TUTORIAL
