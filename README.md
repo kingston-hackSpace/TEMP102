@@ -2,8 +2,9 @@
 
 The TEMP102 provides fast and precise temperature readings.
 
-Range: typically –40 to +125 °C.
-
+|TEMP102       | range          |
+|:--------     |:--------       |
+| Temperature: | –40 to +125 °C | 
 
 ### WHEN TO USE IT?
 The sensor offers high precision across a wide temperature range, making it ideal for monitoring elevated temperatures in electronic equipment or any application where accuracy is more important than humidity measurement.
