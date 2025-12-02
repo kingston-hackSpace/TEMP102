@@ -9,7 +9,7 @@ Range: typically –40 to +125 °C.
 The sensor offers high precision across a wide temperature range, making it ideal for monitoring elevated temperatures in electronic equipment or any application where accuracy is more important than humidity measurement.
 
 
-### TEMP102 vs OTHER SENSORS
+### TEMP102 vs other sensors
 
 The [DHT11/DHT22]([https://github.com/kingston-hackSpace/DHT11_Humidity_and_Temperature/tree/main](https://github.com/kingston-hackSpace/DHT)) are temperature-and-humidity sensors, ideal for ***environmental temperature*** sensing, when ***humidity*** is also required. They are cheaper than the TEMP102, but offer lower accuracy and a smaller temperature range.
 
