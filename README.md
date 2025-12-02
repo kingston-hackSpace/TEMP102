@@ -2,6 +2,9 @@
 
 The TEMP102 provides fast and precise temperature readings.
 
+Range: typically –40 to +125 °C.
+
+
 ### WHEN TO USE IT?
 It can handle higher temperatures than a DHT11/DHT22 sensor, wich makes it ideal to monitor high temperature in electronic equipment.
 
